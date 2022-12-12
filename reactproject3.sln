@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactproject3", "reactproject3.esproj", "{0AF439A0-5EF7-4C93-B33B-F9ED00DBE3F0}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "flight-widget-react", "flight-widget-react.esproj", "{0AF439A0-5EF7-4C93-B33B-F9ED00DBE3F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
